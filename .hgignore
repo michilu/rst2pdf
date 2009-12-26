@@ -1,0 +1,16 @@
+build
+dist
+doc/manual0.pdf
+rst2pdf.egg-info
+rst2pdf/extensions
+tags
+
+syntax: glob
+
+*.pyc
+*.sw?
+.DS_Store
+.svn
+
+syntax: regexp
+
